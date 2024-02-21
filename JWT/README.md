@@ -1,0 +1,1 @@
+o '.env' deve estar no '.gitinore'
